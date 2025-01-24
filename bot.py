@@ -16,15 +16,15 @@ if not os.path.isdir(Config.DOWNLOAD_LOCATION):
     os.makedirs(Config.DOWNLOAD_LOCATION)
 
 if not Config.BOT_TOKEN:
-    logger.error("Please set BOT_TOKEN in config.py or as env var")
+    logger.error("7656930369:AAHuG2tusAmlsQyiPa5KMIGs1C3Ake_LsPU")
     quit(1)
 
 if not Config.API_ID:
-    logger.error("Please set API_ID in config.py or as env var")
+    logger.error("27966142")
     quit(1)
 
 if not Config.API_HASH:
-    logger.error("Please set API_HASH in config.py or as env var")
+    logger.error("d07cbcc5c89ef6e012c365ab8f1c1764")
     quit(1)
 
 
